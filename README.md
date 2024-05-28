@@ -1,5 +1,5 @@
 Admin Password: Raad
-# Advanced Console-Based C++ Store
+# Advanced Console-Based  C++ Store Using OOP
 
 ## Overview
 The Advanced Console-Based C++ Store project is an enhancement of a previous sparse project, implementing Object-Oriented Programming (OOP) principles to improve code structure, maintainability, and efficiency. This console application simulates a real-world shopping experience, providing functionalities such as product browsing, selection, cart management, customer details handling, and an advanced admin interface for product management.
